@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 **Sobre mí**
+### 🌟 **Sobre mí**
 
 <p align="center">
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
@@ -16,14 +16,13 @@
 - 🎓 **Técnico en Sistemas / Desarrollador Full-Stack.**
 - 💡 Apasionado por aprender tecnologías modernas.
 - 🌱 Actualmente aprendiendo **ReactJS** y **Python**.
-- 🌍 Contribuyo a proyectos de código abierto y comparto mis conocimientos a través de mi [blog personal](https://mi-blog.com).
-- 🚀 Siempre buscando mejorar mis habilidades y contribuir a la comunidad de desarrolladores.
+- 🚀 Siempre buscando mejorar mis habilidades y compartir mis conocimientos con la comunidad.
 
 ---
 
-## 🚀 **Lenguajes de Programación y Herramientas**
+### 💻 **Lenguajes de Programación y Herramientas:**
 
-### 💻 **Lenguajes de Programación:**
+#### **Lenguajes de Programación:**
 <p align="center">
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
@@ -31,7 +30,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 </p>
 
-### 🖥️ **Frontend Development:**
+#### **Frontend Development:**
 <p align="center">
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
   ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
@@ -43,7 +42,7 @@
   ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 </p>
 
-### 🗄️ **Bases de Datos:**
+#### **Bases de Datos:**
 <p align="center">
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
@@ -54,20 +53,20 @@
 
 ---
 
-## ⚙️ **GitHub Analytics**
+### ⚙️ &nbsp;**GitHub Analytics**
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<p align="center">
   <a href="https://github.com/AVS1508">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/AVS1508">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</div>
+</p>
 
 ---
 
-## 🏆 **GitHub Trophies**
+### 🏆 **GitHub Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
@@ -75,7 +74,7 @@
 
 ---
 
-## 📫 **Contáctame**
+### 📫 **Contáctame:**
 
 <p align="center">
   - 💼 [LinkedIn](https://www.linkedin.com/in/mauricio-carranza)  
@@ -85,13 +84,13 @@
 
 ---
 
-## 📈 **Proyectos recientes:**
+### 📈 **Proyectos recientes:**
 
-### 1. **[Proyecto React-Frontend](https://github.com/miusuario/proyecto-react)**
+#### 1. **[Proyecto React-Frontend](https://github.com/miusuario/proyecto-react)**
   - **Descripción:** Un frontend desarrollado con ReactJS, donde implementé un sistema de gestión de tareas.
   - **Tecnologías:** React, SCSS, Firebase.
 
-### 2. **[API RESTful con Python](https://github.com/miusuario/proyecto-python)**
+#### 2. **[API RESTful con Python](https://github.com/miusuario/proyecto-python)**
   - **Descripción:** Creación de una API RESTful usando Flask, conectada a una base de datos MySQL.
   - **Tecnologías:** Python, Flask, MySQL.
 
