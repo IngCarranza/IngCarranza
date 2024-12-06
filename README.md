@@ -19,7 +19,7 @@
 ---
 
 
-### Programming languages:
+### Lenguajes de programación que he utilizado:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
