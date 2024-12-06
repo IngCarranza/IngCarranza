@@ -9,40 +9,48 @@
 
 ## 🌟 **Sobre mí**
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="margin: -20px 0 20px 20px;">
-  
+<p align="center">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+</p>
+
 - 🎓 **Técnico en Sistemas / Desarrollador Full-Stack.**
 - 💡 Apasionado por aprender tecnologías modernas.
 - 🌱 Actualmente aprendiendo **ReactJS** y **Python**.
-- 🚀 Colaborando en proyectos de código abierto.
-- 🌍 Comparto contenido técnico en blogs y redes.
+- 🌍 Contribuyo a proyectos de código abierto y comparto mis conocimientos a través de mi [blog personal](https://mi-blog.com).
+- 🚀 Siempre buscando mejorar mis habilidades y contribuir a la comunidad de desarrolladores.
 
 ---
 
 ## 🚀 **Lenguajes de Programación y Herramientas**
 
-### Lenguajes de programación:
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+### 💻 **Lenguajes de Programación:**
+<p align="center">
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+</p>
 
-### Desarrollo Frontend:
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+### 🖥️ **Frontend Development:**
+<p align="center">
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+  ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
+  ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+  ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+</p>
 
-### Bases de datos:
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+### 🗄️ **Bases de Datos:**
+<p align="center">
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+  ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+</p>
 
 ---
 
@@ -69,9 +77,23 @@
 
 ## 📫 **Contáctame**
 
-- 💼 [LinkedIn](https://linkedin.com)  
-- 🌐 [Mi Blog](https://mi-blog.com)  
-- ✉️ **mauricio.carranza@example.com**
+<p align="center">
+  - 💼 [LinkedIn](https://www.linkedin.com/in/mauricio-carranza)  
+  - 🌐 [Mi Blog](https://mi-blog.com)  
+  - ✉️ **mauricio.carranza@example.com**
+</p>
+
+---
+
+## 📈 **Proyectos recientes:**
+
+### 1. **[Proyecto React-Frontend](https://github.com/miusuario/proyecto-react)**
+  - **Descripción:** Un frontend desarrollado con ReactJS, donde implementé un sistema de gestión de tareas.
+  - **Tecnologías:** React, SCSS, Firebase.
+
+### 2. **[API RESTful con Python](https://github.com/miusuario/proyecto-python)**
+  - **Descripción:** Creación de una API RESTful usando Flask, conectada a una base de datos MySQL.
+  - **Tecnologías:** Python, Flask, MySQL.
 
 ---
 
