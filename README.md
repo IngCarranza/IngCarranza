@@ -41,6 +41,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 
 
 ### Base de datos:
