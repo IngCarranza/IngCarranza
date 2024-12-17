@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hola, soy Mauricio Carranza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Banner principal -->
-<p align="center">
-  <img src="https://webescuela.com/wp-content/uploads/2020/08/que-hace-un-desarrollador-web.png.webp" 
-       alt="Banner" 
-       style="width: 900px; height: 400px; object-fit: cover;">
-</p>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/51aee50e0869aa3b7a8d2c9544bd69ee227b.f03d053be1/68747470733a2f692e696d6775722e636f6d2f776e4e62472e706e67">
+  <img src="https://camo.githubusercontent.com/51aee50e0869aa3b7a8d2c9544bd69ee227b.f03d053be1/68747470733a2f692e696d6775722e636f6d2f776e4e62472e706e67"
+       data-canonical-src="https://i.imgur.com/weNbN6Z.png" style="max-width: 100%;">
+</a>
+
 
 
 
