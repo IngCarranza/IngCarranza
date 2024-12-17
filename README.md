@@ -24,14 +24,15 @@
 
 ---
 
-🚀 Lenguajes de Programación
-<p align="center"> &emsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC) ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP) </p>
+<details>
+  <summary>📦 Lenguajes</summary>
+  <p>&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</p>
+</details>
 
-🎨 Frontend Development
-<p align="center"> &emsp; ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI) ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI) ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5) ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js) </p>
-
-🗄️ Base de Datos
-<p align="center"> &emsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite) </p>
 
 
 
