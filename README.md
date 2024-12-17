@@ -2,7 +2,7 @@
 
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Bienvenidos+a+mi+Perfil+%F0%9F%8C%88" alt="Banner">
+  <img src="[https://via.placeholder.com/1200x300?text=Bienvenidos+a+mi+Perfil+%F0%9F%8C%88](https://webescuela.com/wp-content/uploads/2020/08/que-hace-un-desarrollador-web.png.webp)" alt="Banner">
 </p>
 
 ---
