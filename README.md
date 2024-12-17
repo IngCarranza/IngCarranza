@@ -56,15 +56,3 @@
 <p align="center"> <a href="https://github.com/AVS1508"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=radical"/> </a> </p>
 
 
-🏆 GitHub Trophies
-<p align="center"> <a href="https://github.com/CodeWhiteWeb"> <img src="https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/> </a> </p>
-
-
-
-🎯 GitHub Streak
-<p align="center"> <a href="https://github.com/AVS1508"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AVS1508&theme=radical&hide_border=true" alt="GitHub Streak"/> </a> </p>
-
-
-
-🖼️ Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AVS1508&color=brightgreen&style=flat-square" alt="Profile Views" /> </p>
