@@ -5,7 +5,7 @@
   <img src="https://webescuela.com/wp-content/uploads/2020/08/que-hace-un-desarrollador-web.png.webp" 
        alt="Banner" 
        width="900" 
-       height="200">
+       height="400">
 </p>
 
 
