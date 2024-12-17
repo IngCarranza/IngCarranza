@@ -4,9 +4,9 @@
 <p align="center">
   <img src="https://webescuela.com/wp-content/uploads/2020/08/que-hace-un-desarrollador-web.png.webp" 
        alt="Banner" 
-       width="900" 
-       height="400">
+       style="width: 900px; height: 200px; object-fit: cover;">
 </p>
+
 
 
 ### 🌟 **Sobre mí**
