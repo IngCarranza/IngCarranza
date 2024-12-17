@@ -30,6 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
 ### Frontend development:
 &emsp;
